@@ -1,0 +1,6 @@
+* * * * * ( bash /home/check.sh )
+* * * * * ( sleep 20 ; bash /home/check.sh  )
+* * * * * ( sleep 30 ; bash /home/check.sh  )
+* * * * * ( sleep 40 ; bash /home/check.sh  )
+* * * * * ( sleep 50 ; bash /home/check.sh  )
+
