@@ -1,3 +1,4 @@
+#run check.sh script every 10 second
 * * * * * ( bash /home/check.sh )
 * * * * * ( sleep 20 ; bash /home/check.sh  )
 * * * * * ( sleep 30 ; bash /home/check.sh  )
